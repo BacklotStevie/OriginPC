@@ -1,0 +1,37 @@
+Body{
+font-family:"azo-sans-web",sans-serif;
+}
+
+#Nav {
+    background-color:#34363c;
+    font-family: "ff-basic-gothic-pro",sans-serif;
+}
+
+#Banner {
+    background-image: url('/Users/stevensarria/Documents/coding-2/pcorigin-project/originpc-landing-page/src/images/banner PS.png'); 
+    background-size: 1440px 400px;
+    width: 1440px;
+    height: 400px;
+}
+
+#Gaming {
+    background-image: url('/Users/stevensarria/Documents/coding-2/pcorigin-project/originpc-landing-page/src/images/Genji.png');
+    width: 1440px;
+    height: 400px;
+}
+
+#Creative {
+    background-image: url('/Users/stevensarria/Documents/coding-2/pcorigin-project/originpc-landing-page/src/images/Creative.png');
+    width: 1440px;
+    height: 400px;
+}
+
+#DataScience {
+    background-image: url('/Users/stevensarria/Documents/coding-2/pcorigin-project/originpc-landing-page/src/images/datascience.png');
+    width: 1440px;
+    height: 400px;
+}
+  
+  p {
+    padding: 25px;
+  }
